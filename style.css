@@ -8,12 +8,24 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 .textík{
     background-color: bisque;
     margin: 100px;
+    margin-bottom: 0px;
+    margin-top: 0px;
     padding: 30px;
 }
 
 .udaje {
     background-color: cadetblue;
     margin:100px;
+    margin-top: 0px;
     padding: 30px;
 
+}
+
+.nadpis {
+    background-color: cadetblue;
+    margin:100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 30px;
+    font-size: 30px;
 }
