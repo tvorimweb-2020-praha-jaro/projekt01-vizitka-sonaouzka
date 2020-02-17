@@ -5,6 +5,9 @@ margin: 0px;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+h1{
+    color: whitesmoke;
+}
 .textík{
     background-color: bisque;
     margin: 100px;
@@ -14,7 +17,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .udaje {
-    background-color: cadetblue;
+    background-color:  rgb(101, 145, 146);
     margin:100px;
     margin-top: 0px;
     padding: 30px;
@@ -22,10 +25,16 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .nadpis {
-    background-color: cadetblue;
+    background-color: rgb(101, 145, 146);
     margin:100px;
     margin-top: 0px;
     margin-bottom: 0px;
     padding: 30px;
-    font-size: 30px;
+    font-size: 35px;
+}
+
+.sonafoto {
+    width: 25%;
+    height: 25%;
+
 }
